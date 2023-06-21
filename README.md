@@ -13,4 +13,9 @@ using if function to check lists
 
 using for loop to assign password to the password holder array
 
-assign the password to the place holder when the customer click the password button 
+ git branch https://github.com/Hellobisrat/password
+
+clone link https://hellobisrat.github.io/password/
+
+<img src="./images/scr1.jpg">
+
